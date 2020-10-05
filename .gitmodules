@@ -1,0 +1,3 @@
+[submodule "diabetes_prediction"]
+	path = diabetes_prediction
+	url = https://github.com/dcongtinh/diabetes_prediction.git
